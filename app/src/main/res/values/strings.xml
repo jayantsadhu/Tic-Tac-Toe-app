@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Connect3 Game</string>
+    <string name="content_desc">TODO</string>
+    <string name="new_game">New Game</string>
+</resources>
